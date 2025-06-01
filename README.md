@@ -15,13 +15,13 @@ Digitaliser la gestion de cabinets médicaux avec des spécificités métier com
 - Spring Integration
 
 ### Frontend
-- React 18
+- React 18, react-router
 - TypeScript
 - FullCalendar
-- Ant Design
+- Shadcn
 
 ### Base de données
-- PostgreSQL avec chiffrement des données sensibles
+- MySQL avec chiffrement des données sensibles
 
 ### Sécurité
 - Conformité RGPD
